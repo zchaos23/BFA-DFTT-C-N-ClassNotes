@@ -3,7 +3,6 @@ import turtle as tl
 
 '''
 2022-第二学期-计算机与网络-作业3py
-赵方铭
 
 本程序通过调用 Pillow 库的 Image 图像处理部分，读取 example.png 图像每个像素点的 RGBA 值，
 并使用 for 循环逐行将像素点描在 Turtle 画布上，从而实现根据图片生成 Turtle 像素画。
